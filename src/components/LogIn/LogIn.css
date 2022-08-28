@@ -1,0 +1,102 @@
+.form-container {
+  margin: 10px auto;
+  width: 500px;
+  height: 600px;
+  background: #ffffff;
+  border: 1px solid #95a0a7;
+  border-radius: 8px;
+  display: flex;
+  justify-content: center;
+}
+.form-title {
+  width: 83px;
+  height: 42px;
+  font-weight: 400;
+  font-size: 35px;
+  font-family: "Lato";
+  font-style: normal;
+  line-height: 42px;
+  letter-spacing: 0.0025em;
+  color: #2a414f;
+}
+.input-group label {
+  display: block;
+  margin-left: 5px;
+  margin-bottom: 5px;
+}
+.input-group input {
+  width: 415px;
+  height: 27px;
+  font-size: 15px;
+  border: 1px solid #95a0a7;
+  margin-bottom: 10px;
+}
+.form-login input {
+  width: 420px;
+  height: 35px;
+  font-size: 18px;
+  border: 1px solid #95a0a723;
+  background-color:  #ffa41b98;;
+  margin-top: 20px;
+  cursor: pointer;
+}
+.form-login input:hover{
+  background-color:  #ffa41bce;;
+}
+.new-to-ema-john {
+  width: 300px;
+  height: 18px;
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 18px;
+  letter-spacing: 0.0025em;
+  color: #2a414f;
+}
+.create-new-pass {
+  color: #ff9900b0;
+  text-decoration: none;
+  font-size: 20px;
+}
+.create-new-pass:hover{
+  color: #ff9900fd;
+}
+.google-btn img{
+ width: 30PX;
+ 
+}
+.google-btn button{
+  width: 415px;
+  height: 40px;
+  background-color: white;
+  border: 0.2px solid #ccd4da6c;
+  cursor: pointer;
+}
+.google-btn{
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+  
+}
+.continue-with-google{
+  position: relative;
+  bottom: 27%;
+  font-size: 18px;
+}
+.divider-container{
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
+.divider{
+  border: .2px solid #d1dbe0;
+  width: 40%;
+  margin-right: 10px;
+  margin-left: 10px;
+  height: 0;
+}
+.or{
+  position: relative;
+  bottom: 50%;
+}
