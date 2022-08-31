@@ -43,3 +43,6 @@
 .btn-cart:hover{
     background-color: orange;
 }
+.btn-text{
+    cursor: pointer;
+}
